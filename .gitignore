@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Outputs generados por el notebook (se regeneran al ejecutar)
+viz_*.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office binaries pesados
+*.pptx
+*.xlsx
+
+# R
+.Rhistory
+.RData
+*.Rproj
+
+# Carpetas del lab anterior que no son parte del ejercicio Python
+Lab04_Spotify/Scripts/
+Lab04_Spotify/linkedin/
+
+# Documentos Word del lab anterior
+*.docx
